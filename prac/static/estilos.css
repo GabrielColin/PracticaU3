@@ -1,0 +1,12 @@
+body{
+	background-color: red;
+}
+section{
+	background-color: blue;
+	border: solid;
+	margin: 3rem;
+	max-width: 60%;
+}
+p{
+	font-size: 5rem;
+}
